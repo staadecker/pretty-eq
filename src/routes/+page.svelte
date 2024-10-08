@@ -16,6 +16,6 @@
     <h1>PrettyEQ</h1>
 
 
-    <div bind:this={mathField}></div>
+    <div class="border" bind:this={mathField}></div>
 
 </div>
